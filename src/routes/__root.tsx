@@ -78,14 +78,18 @@ export const Route = createRootRouteWithContext<{ queryClient: QueryClient }>()(
     meta: [
       { charSet: "utf-8" },
       { name: "viewport", content: "width=device-width, initial-scale=1" },
-      { title: "Lovable App" },
-      { name: "description", content: "Lovable Generated Project" },
+      { title: "parallel universe" },
+      { name: "description", content: "Explore your unique \"What if\" dreams with a personalized life simulator." },
       { name: "author", content: "Lovable" },
-      { property: "og:title", content: "Lovable App" },
-      { property: "og:description", content: "Lovable Generated Project" },
+      { property: "og:title", content: "parallel universe" },
+      { property: "og:description", content: "Explore your unique \"What if\" dreams with a personalized life simulator." },
       { property: "og:type", content: "website" },
       { name: "twitter:card", content: "summary" },
       { name: "twitter:site", content: "@Lovable" },
+      { name: "twitter:title", content: "parallel universe" },
+      { name: "twitter:description", content: "Explore your unique \"What if\" dreams with a personalized life simulator." },
+      { property: "og:image", content: "https://pub-bb2e103a32db4e198524a2e9ed8f35b4.r2.dev/8062e0a0-45dc-4778-88ba-db7163553f57/id-preview-c0b30d27--fc466021-fc53-4ddb-9d26-9aeb870a3863.lovable.app-1781370417166.png" },
+      { name: "twitter:image", content: "https://pub-bb2e103a32db4e198524a2e9ed8f35b4.r2.dev/8062e0a0-45dc-4778-88ba-db7163553f57/id-preview-c0b30d27--fc466021-fc53-4ddb-9d26-9aeb870a3863.lovable.app-1781370417166.png" },
     ],
     links: [
       {
