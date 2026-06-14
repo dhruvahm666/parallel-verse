@@ -146,3 +146,7 @@ To become the world's most personalized dream exploration platform, helping peop
 Dhruva H M
 
 Building products that combine AI, imagination, and human potential.
+<img width="1902" height="832" alt="Screenshot 2026-06-13 231318" src="https://github.com/user-attachments/assets/19aae457-19b3-400f-9f9d-0e8765e49544" />
+<img width="1521" height="756" alt="Screenshot 2026-06-13 231339" src="https://github.com/user-attachments/assets/156a8590-9b28-4e9b-b91e-e4cb324a0eac" />
+
+
