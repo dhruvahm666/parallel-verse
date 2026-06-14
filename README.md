@@ -1,3 +1,4 @@
+
 # 🌌 Parallel Universe
 
 > Explore the lives you never lived.
@@ -148,5 +149,7 @@ Dhruva H M
 Building products that combine AI, imagination, and human potential.
 <img width="1902" height="832" alt="Screenshot 2026-06-13 231318" src="https://github.com/user-attachments/assets/19aae457-19b3-400f-9f9d-0e8765e49544" />
 <img width="1521" height="756" alt="Screenshot 2026-06-13 231339" src="https://github.com/user-attachments/assets/156a8590-9b28-4e9b-b91e-e4cb324a0eac" />
-
-
+<img width="1536" height="1024" alt="ChatGPT Image Jun 14, 2026, 12_07_08 PM" src="https://github.com/user-attachments/assets/12cad47f-befc-4af5-8f06-b7803e74befe" />
+<img width="1512" height="701" alt="Screenshot 2026-06-14 120349" src="https://github.com/user-attachments/assets/36dac39a-fbc2-4fb7-9fad-a38a7aaff67d" />
+<img width="1513" height="701" alt="Screenshot 2026-06-14 120416" src="https://github.com/user-attachments/assets/cc0829a3-b3a7-4e63-a006-fa5a0df90620" />
+<img width="1507" height="707" alt="Screenshot 2026-06-14 120447" src="https://github.com/user-attachments/assets/68785001-9e1a-4d6e-abda-d36616476979" />
