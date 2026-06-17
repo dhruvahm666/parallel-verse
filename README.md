@@ -136,9 +136,6 @@ But with deeply personalized alternate futures generated from the user's own amb
 
 ---
 
-## 🌍 Vision
-
-To become the world's most personalized dream exploration platform, helping people visualize possibilities, understand trade-offs, and discover meaningful paths toward their goals.
 
 ---
 
