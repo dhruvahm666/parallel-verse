@@ -3,7 +3,7 @@
 
 > Explore the lives you never lived.
 
-Parallel Universe is an AI-powered life simulation platform that generates personalized alternate life timelines based on a user's own dreams, ambitions, opportunities, and constraints.
+
 
 Unlike traditional career simulators, Parallel Universe does not rely on preset paths. Users enter their own "What If?" questions, and the AI creates realistic parallel universe scenarios tailored specifically to their goals.
 
