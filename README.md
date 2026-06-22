@@ -1,7 +1,7 @@
 
 # 🌌 Parallel Universe
 
-
+> Explore the lives you never lived.
 
 Parallel Universe is an AI-powered life simulation platform that generates personalized alternate life timelines based on a user's own dreams, ambitions, opportunities, and constraints.
 
