@@ -102,5 +102,5 @@ meaningful paths toward their most ambitious goals.
 ---
 
 <p align="center">
-  <i>Built by Dhruva H M — 17y/o Building products that combine AI, imagination, and human potential.</i>
+  <i>Built by Dhruva H M — Building products that combine AI, imagination, and human potential.</i>
 </p>
